@@ -34,5 +34,6 @@
 - ✉️ [Email Me](mailto:wyckieochieng91@gmail.com)
 
 ### Fun Fact 🚀
-When I’m not crunching data, you’ll find me either swimming🏊‍♂️🏊‍♂️ or eating
+Crime Junkie af, when i'm not crunching data I,m watching a True crime documentary
+POWER ALILILILILILI😂
 
