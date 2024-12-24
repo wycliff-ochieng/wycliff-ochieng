@@ -23,4 +23,13 @@
 - **Big Data**: `Apache Spark`, 
 - **Cloud Platforms**: `AWS` (e.g., S3, EC2)
 - **Databases**: `PostgreSQL`, `MySQL`, `Snowflake`, 
-- **Other Tools**: `Git`, `Docker`, 
+- **Other Tools**: `Git`, `Docker`,
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wycliff-ochieng&show_icons=true&theme=radical)
+
+## Connect With Me 🌐
+- 💼 [LinkedIn](https://linkedin.com/in/wycliff-ochieng-851a53328)  
+- 📝 [Portfolio/Personal Website](https://yourwebsite.com)  
+- ✉️ [Email Me](mailto:wyckieochieng91@gmail.com)
+
