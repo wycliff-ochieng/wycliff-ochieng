@@ -5,7 +5,7 @@
  **What I do:**
 - Build efficient ETL/ELT pipelines to manage and transform large datasets.
    
-- Work with cloud platforms like [AWS/GCP/Azure] to deploy data solutions.
+- Work with cloud platforms like (AWS) to deploy data solutions.
 
 - Design data models for high-performance analytics.
   
