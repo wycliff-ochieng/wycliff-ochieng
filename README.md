@@ -33,3 +33,6 @@
 - 📝 [Portfolio/Personal Website](https://yourwebsite.com)  
 - ✉️ [Email Me](mailto:wyckieochieng91@gmail.com)
 
+### Fun Fact 🚀
+When I’m not crunching data, you’ll find me either swimming🏊‍♂️🏊‍♂️ or eating
+
