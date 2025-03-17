@@ -1,6 +1,6 @@
-# Hello, I'm Wycliff 👋
+# Yooo, I'm Wycliff 👋
 
-**Data Engineering | Cloud Enthusiast | SQL Wizard**
+**Data Engineering | Cloud Enthusiast | SQL **
 
  **What I do:**
 - Build efficient ETL/ELT pipelines to manage and transform large datasets.
@@ -18,10 +18,10 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages & Tools:
-- **Languages**: `Python`, `SQL`, `Bash`
+- **Languages**: `Python`, `SQL`
 - **ETL Frameworks**: `Apache Airflow`, 
 - **Big Data**: `Apache Spark`, 
-- **Cloud Platforms**: `AWS` (e.g., S3, EC2)
+- **Cloud Platforms**: `AWS (e.g., S3, EC2)`
 - **Databases**: `PostgreSQL`, `MySQL`, `Snowflake`, 
 - **Other Tools**: `Git`, `Docker`,
 
