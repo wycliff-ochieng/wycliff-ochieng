@@ -1,6 +1,6 @@
 # Yooo, I'm Wycliff 👋
 
-**Data Engineering | Cloud Enthusiast | SQL **
+** Data Engineering | Cloud Enthusiast | SQL **
 
  **What I do:**
 - Build efficient ETL/ELT pipelines to manage and transform large datasets.
