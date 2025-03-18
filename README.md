@@ -1,6 +1,6 @@
 # Yooo, I'm Wycliff 👋
 
-**Data Engineering | Cloud | Backend Development**
+**Data Engineering | Cloud**
 
  **What I do:**
 - Build efficient ETL/ELT pipelines to manage and transform large datasets.
