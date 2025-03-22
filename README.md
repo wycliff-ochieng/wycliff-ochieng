@@ -2,20 +2,12 @@
 
 **Data Engineering | Cloud | Backend Development**
 
- **What I do:**
-- Build efficient ETL/ELT pipelines to manage and transform large datasets.
-   
-- Work with cloud platforms like (AWS) to deploy data solutions.
-
-- Design data models for high-performance analytics.
-  
-- Write complex SQL queries and scripts for data cleaning and transformation.  
 
 📚 **Always learning:** Currently diving deeper into :
 
 - `Apache Spark`, `Apache Airflow` ,` Apache Kafka`, `dbt`, `Snowflake`,`Amazon Redshift`,`AWS Glue`
 
-- Backend Development (python $ Go)
+- Backend Development
 
 ---
 
