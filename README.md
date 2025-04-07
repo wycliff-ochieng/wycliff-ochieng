@@ -1,4 +1,4 @@
-#                                                              Yooo, I'm Wycliff 👋
+#                                                              Hey There , I'm Wycliff 👋
 
 **Data Engineering | Cloud | Backend Development**
 
