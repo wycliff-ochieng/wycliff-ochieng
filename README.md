@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Engineering | backend development**
 
-- 🌱 I’m currently learning **Go for Backend development**
+- 🌱 I’m currently learning **Go for Backend development, Cloud Native Technologies**
 
 - 💬 Ask me about **kafka,spark,airflow**
 
