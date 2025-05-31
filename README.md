@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go for Backend development, Cloud Native Technologies**
 
-- 💬 Ask me about **kafka,spark,airflow**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **ochiengonyango50@gmail.com**
 
