@@ -5,7 +5,7 @@
 
 - 🌱 I’m interested in **Backend development,Data Engineering, Cloud Native Technologies**
 
-<h5>-   I'm currently buiding <a href="">**sports management system**</a> and <a>**Loci - A Geo-messaging Application**</a></h5>
+- ⚒️ I'm currently buiding <a href="">**sports management system**</a> and <a href="">**Loci - A Geo-messaging Application**</a>
 
 - 📫 How to reach me **ochiengonyango50@gmail.com**
 
