@@ -1,5 +1,5 @@
-<h1 align="center">Hello There 👋, I'm Wycliff</h1>
-<h3 align="center">A Developer from Kenya</h3>
+<h1 align="center">Hello👋, I'm Wycliff</h1>
+<h3 align="center">A Backend Engineer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/wyckie__" target="blank"><img src="https://img.shields.io/twitter/follow/wyckie__?logo=twitter&style=for-the-badge" alt="wyckie__" /></a> </p>
 
