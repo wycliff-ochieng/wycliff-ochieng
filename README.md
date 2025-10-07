@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wyckie__" target="blank"><img src="https://img.shields.io/twitter/follow/wyckie__?logo=twitter&style=for-the-badge" alt="wyckie__" /></a> </p>
 
-- 🌱 I’m interested in **Backend development,Data Engineering, Cloud Native Technologies**
+- 🌱 I’m interested in **server side programming and cloud native applications**
 
 - ⚒️ I'm currently buiding <a href="">**sports-Pro**</a> and <a href="">**Loci**</a>
 
