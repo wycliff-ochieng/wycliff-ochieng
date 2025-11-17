@@ -5,11 +5,7 @@
 
 - 🌱 I’m interested in **server side programming and cloud native applications**
 
-- ⚒️ I'm currently buiding <a href="">**sports-Pro**</a> and <a href="">**Loci**</a>
-
 - 📫 How to reach me **ochiengonyango50@gmail.com**
-
-- I'm reading TCP/IP Illustrated Volume 1  by Kevin R.Fall and The Linux Kernel Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
