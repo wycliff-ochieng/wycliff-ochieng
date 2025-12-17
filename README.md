@@ -1,4 +1,4 @@
-- 🌱 I'm Wycliff Ochineg
+- 🌱 I'm Wycliff Ochieng
 
 - 🌱 I’m interested in **server side programming and cloud native applications**
 
