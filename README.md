@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wycliff Ochieng</h1>
+<h1 align="center">Hi 👋, I'm Wycliff</h1>
 <h3 align="center">Backend Software Engineer</h3>
 
 - 🔭 I’m currently working on **Loci**
