@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Wycliff</h1>
-<h3 align="center">Backend Software Engineer</h3>
+<h1 align="center">HEY 👋 </h1>
 
-- 🔭 I’m currently working on **Loci**
+- 🔭 SDE | SOFTWARE ENGINEERING
+  
+- 🌱 I'M INTERESTED IN **SERVER-SIDE PROGRAMMING,DISTRIBUTED SYSTEMS,INFASTRUCTURE AND OPERATIONS**
 
-- 🌱 I’m currently learning **Distributed Systems, Infstructure and Operations**
+- 👯 I'M LOOKING TO COLLABORATE ,LEARN AND WORK ON **BACKEND DEVELOPMENT WORK**
 
-- 👯 I’m looking to collaborate on **backend development projects**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wycliff ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wycliff ochieng" height="30" width="40" /></a>
 </p>
