@@ -1,12 +1,12 @@
-<h1 align="center">HEY 👋 </h1>
+<h1 align="center">Hey 👋  I'm  Wycliff </h1>
 
 - 🔭 SDE | SOFTWARE ENGINEERING
   
-- 🌱 I'M INTERESTED IN **SERVER-SIDE PROGRAMMING,DISTRIBUTED SYSTEMS,INFASTRUCTURE AND OPERATIONS**
+- 🌱 I;m intereseted in **Server-Side Programming, Cloud native Applications, Distributed Systems, Infastructure and Operations**
 
-- 👯 I'M LOOKING TO COLLABORATE ,LEARN AND WORK ON **BACKEND DEVELOPMENT WORK**
+- 👯 I'm looking to work,learn and collaborate on **Backend Development projects**
 
-<h3 align="left">CONNECT WITH ME:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wycliff ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wycliff ochieng" height="30" width="40" /></a>
 </p>
