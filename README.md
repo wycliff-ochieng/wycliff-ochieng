@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋  I'm  Wycliff </h1>
 
-- 🔭 SDE | SOFTWARE ENGINEERING
+<h1 align="center"> Backend Software Engineering </h1>
+
+<h1 align="center">Server-Side, Infastructure, Cloud & Cloud Native </h1>
   
-- 🌱 I;m intereseted in **Server-Side Programming, Cloud native Applications, Distributed Systems, Infastructure and Operations**
-
-- 👯 I'm looking to work,learn and collaborate on **Backend Development projects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wycliff ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wycliff ochieng" height="30" width="40" /></a>
