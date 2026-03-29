@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋  I'm  Wycliff </h1>
 
-<h3 align="center"> Backend Software Engineering </h3>
+<h3 align="center"> Software Engineering </h3>
 
-<h3 align="center">Server-Side, Infrastructure, Cloud & Cloud Native </h3>
+<h2 align="left">My Interests lie in Backend engineering, Server-Side, Infrastructure, Cloud & Cloud Native technologies </h2>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
