@@ -2,7 +2,7 @@
 
 <h3 align="center"> Software Engineering </h3>
 
-<h2 align="left">My Interests lie in Backend engineering, Server-Side, Infrastructure, Cloud & Cloud Native technologies </h2>
+<p align="left">My Interests lie in Backend engineering, Server-Side, Infrastructure, Cloud & Cloud Native technologies </p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
