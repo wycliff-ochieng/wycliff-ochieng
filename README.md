@@ -2,12 +2,18 @@
 
 <h3 align="center"> Software Engineering </h3>
 
-<p align="left">My Interests lie in:
-  Backend engineering
-  Server-Side, 
-  Infrastructure, 
-  Cloud & Cloud Native technologies </p>
-  
+<p align="left">
+My interests are centered around building reliable, scalable backend systems. I'm particularly focused on:
+</p>
+
+<ul>
+  <li><strong>Backend Engineering</strong></li>
+  <li><strong>Infrastructure & Cloud-Native Technologies</strong> (Docker, Kubernetes)</li>
+  <li><strong>Distributed Systems</strong></li>
+  <li><strong>Financial Systems & Fintech Infrastructure</strong></li>
+  <li><strong>Applied AI</strong> (LLMs, Agentic AI, and MLOps)</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wycliff ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wycliff ochieng" height="30" width="40" /></a>
