@@ -8,7 +8,7 @@ My interests are centered around building reliable, scalable backend systems. I'
 
 <ul>
   <li><strong>Backend Engineering</strong></li>
-  <li><strong>Infrastructure & Cloud-Native Technologies</strong> (Docker, Kubernetes)</li>
+  <li><strong>Infrastructure & Cloud-Native Technologies</strong> (Linux, Docker, Kubernetes)</li>
   <li><strong>Distributed Systems</strong></li>
   <!--<li><strong>Financial Systems & Fintech Infrastructure</strong></li>-->
   <li><strong>Applied AI</strong> (LLMs, Agentic AI, and MLOps)</li>
