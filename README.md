@@ -12,6 +12,7 @@ My interests are centered around building reliable, scalable backend systems. I'
   <li><strong>Distributed Systems</strong></li>
   <!--<li><strong>Financial Systems & Fintech Infrastructure</strong></li>-->
   <li><strong>Applied AI</strong> (LLMs, Agentic AI, and MLOps)</li>
+  <li>ERP and Financial Systems<strong>(Odoo ERP)</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
