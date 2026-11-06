@@ -9,10 +9,10 @@ My interests are centered around building reliable, scalable backend systems. I'
 <ul>
   <li><strong>Backend Engineering</strong></li>
   <li><strong>Infrastructure & Cloud-Native Technologies</strong> (Linux, Docker, Kubernetes)</li>
-  <li><strong>Distributed Systems</strong></li>
+  <li><strong>Distributed Systems and Databases</strong></li>
   <!--<li><strong>Financial Systems & Fintech Infrastructure</strong></li>-->
-  <li><strong>Applied AI</strong> (LLMs, Agentic AI)</li>
-  <li><strong>ERP Systems(Odoo)</strong></li>
+  <!--<li><strong>Applied AI</strong> (LLMs, Agentic AI)</li>
+  <li><strong>ERP Systems(Odoo)</strong></li>-->
 </ul>
 
 <h3 align="left">Connect with me:</h3>
